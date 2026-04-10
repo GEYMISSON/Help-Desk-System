@@ -10,7 +10,7 @@ Sistema web desenvolvido para gerenciamento de:
 - 🖥️ Equipamentos (PCs)
 - 🔧 Peças
 
-![Menu Lateral](./Images/MenuLateral.png)
+![Menu Lateral](./public/Images/MenuLateral.png)
 
 ---
 
@@ -32,13 +32,13 @@ Sistema web desenvolvido para gerenciamento de:
 - Login com autenticação JWT
 - Controle de acesso (admin / user)
 
-![Cadastro de Usuários](./Images/CadastrodeUsuários.png)
+![Cadastro de Usuários](./public/Images/CadastrodeUsuários.png)
 
 ### 🏢 Setores
 - Cadastro de setores
 - Listagem e exclusão
 
-![Cadastro de Setores](./Images/CadastrodeSetores.png)
+![Cadastro de Setores](./public/Images/CadastrodeSetores.png)
 
 ### 📋 Chamados
 - Abertura de chamados
@@ -46,7 +46,7 @@ Sistema web desenvolvido para gerenciamento de:
 - Controle de revisão
 - Geração automática de código (tombo)
 
-![Cadastro de Chamados](./Images/CadastrodeChamados.png)
+![Cadastro de Chamados](./public/Images/CadastrodeChamados.png)
 
 ### 🖥️ Equipamentos
 #### PCs
@@ -59,20 +59,20 @@ Sistema web desenvolvido para gerenciamento de:
   - Fonte
 - Código automático (FCJZTI0001...)
 
-![Cadastro de Computadores/Notebooks](./Images/CadastrodeComputadoresNotebooks.png)
+![Cadastro de Computadores/Notebooks](./public/Images/CadastrodeComputadoresNotebooks.png)
 
 #### Peças
 - Cadastro de peças
 - Controle de estoque básico
 
-![Cadastro de Peças](./Images/CadastrodePeças.png)
+![Cadastro de Peças](./public/Images/CadastrodePeças.png)
 
 ### 📊 Dashboard
 - Total de usuários
 - Total de setores
 - Alertas de revisão
 
-![Tela do Dashboard](./Images/TeladoDashboard.png)
+![Tela do Dashboard](./public/Images/TeladoDashboard.png)
 
 ---
 
