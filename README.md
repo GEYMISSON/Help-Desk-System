@@ -1,4 +1,4 @@
-# Controle-de-equipamento
+# Help Desk System
 
 # 💻 Sistema de Chamados e Controle de Equipamentos
 
