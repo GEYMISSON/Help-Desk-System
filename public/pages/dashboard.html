@@ -136,7 +136,7 @@ button { margin-top:5px; padding:5px; cursor:pointer; }
 
 <script>
 const token = localStorage.getItem('token');
-if (!token) location.href='index.html';
+if (!token) location.href='/login';
 
 function toggleSubmenu(){
 submenu.style.display=submenu.style.display==='block'?'none':'block';
@@ -396,8 +396,8 @@ fetch(`/pecas/${id}`,{method:'DELETE',headers:{Authorization:token}})
 }
 
 function logout(){
-localStorage.removeItem('token');
-location.href='index.html';
+    localStorage.removeItem('token');
+    location.href='/login';
 }
 
 carregarDashboard();

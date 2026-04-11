@@ -19,7 +19,7 @@ document.getElementById('login-form')?.addEventListener('submit', async (e) => {
 
     if(data.token){
         localStorage.setItem('token',data.token);
-        location.href='dashboard.html';
+        location.href='/dashboard';
     }else{
         message.textContent=data.message;
     }
